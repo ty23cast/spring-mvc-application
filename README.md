@@ -1,1 +1,1 @@
-# password-manager-api
+# Spring MVC Application
